@@ -1,6 +1,6 @@
 /**
  *
- * @author Jay, Naman, Chaitya
+ * @author Chaitya
  */
 
 package university.management.system;
